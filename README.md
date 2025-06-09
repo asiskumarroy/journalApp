@@ -1,0 +1,2 @@
+# journalApp
+SpringBoot application
